@@ -4,7 +4,7 @@
 
 [Link to the problem](https://cssbattle.dev/play/115)
 
-![result](https://cssbattle.dev/targets/115.png)
+![target](https://cssbattle.dev/targets/115.png)
 
 ```html
 <div class="top"></div>

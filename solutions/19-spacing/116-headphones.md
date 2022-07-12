@@ -4,7 +4,7 @@
 
 [Link to the problem](https://cssbattle.dev/play/116)
 
-![result](https://cssbattle.dev/targets/116.png)
+![target](https://cssbattle.dev/targets/116.png)
 
 ```html
 <div></div>
