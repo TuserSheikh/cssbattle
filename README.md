@@ -3,6 +3,7 @@
 ## Battle #19 - Spacing
 
 - [#109 - Curtain](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/19-spacing/109-curtain.md)
+- [#110 - Sunrays](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/19-spacing/110-sunrays.md)
 - [#111 - Rain Drops](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/19-spacing/111-rain-drops.md)
 - [#113 - Black Light](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/19-spacing/113-black-light.md)
 - [#114 - Negative Box](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/19-spacing/114-negative-box.md)
