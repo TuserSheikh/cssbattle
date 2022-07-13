@@ -2,7 +2,7 @@
 
 ## Battle #17 - Chrismas
 
-- [#97 - Snowman](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/19-spacing/97-snowman.md)
+- [#97 - Snowman](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/17-christmas/97-snowman.md)
 
 ## Battle #19 - Spacing
 
