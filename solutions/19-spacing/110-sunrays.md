@@ -16,12 +16,12 @@
 <div class="l7"></div>
 <style>
   body {
-    background: #D25B70;
+    background: #d25b70;
   }
   div {
     width: 10px;
     height: 100px;
-    background: #F2E09F;
+    background: #f2e09f;
     border-radius: 10px;
     position: absolute;
   }
@@ -42,7 +42,7 @@
   }
   .l4 {
     top: 80;
-    left: 195
+    left: 195;
   }
   .l5 {
     top: 90;
@@ -59,6 +59,5 @@
     right: 125;
     transform: rotate(90deg);
   }
-</style>
 </style>
 ```
