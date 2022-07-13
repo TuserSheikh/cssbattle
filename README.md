@@ -4,6 +4,7 @@
 
 - [#97 - Snowman](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/17-christmas/97-snowman.md)
 - [#98 - Candle](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/17-christmas/98-candle.md)
+- [#99 - Gift Box](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/17-christmas/99-gift-box.md)
 
 ## Battle #19 - Spacing
 
