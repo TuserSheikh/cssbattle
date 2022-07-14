@@ -3,6 +3,7 @@
 ## Battle #16 - Aspect
 
 - [#89 - Summit](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/16-aspect/89-summit.md)
+- [#90 - Eclipse](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/16-aspect/90-eclipse.md)
 
 ## Battle #17 - Chrismas
 
