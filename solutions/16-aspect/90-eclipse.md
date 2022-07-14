@@ -1,6 +1,6 @@
 # Battle #16 - Aspect
 
-## #89 - Eclipse
+## #90 - Eclipse
 
 [Link to the problem](https://cssbattle.dev/play/90)
 
