@@ -6,6 +6,7 @@
 - [#90 - Eclipse](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/16-aspect/90-eclipse.md)
 - [#91 - Reflection](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/16-aspect/91-reflection.md)
 - [#92 - Squeeze](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/16-aspect/92-squeeze.md)
+- [#93 - Great Wall](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/16-aspect/93-great-wall.md)
 
 ## Battle #17 - Chrismas
 
