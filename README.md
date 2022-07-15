@@ -8,6 +8,7 @@
 - [#84 - Junction](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/15-filter/84-junction.md)
 - [#85 - Pythagoras](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/15-filter/85-pythagoras.md)
 - [#86 - Stairway](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/15-filter/86-stairway.md)
+- [#87 - Building Block](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/15-filter/87-building-blocks.md)
 
 ## Battle #16 - Aspect
 
