@@ -9,6 +9,7 @@
 - [#93 - Great Wall](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/16-aspect/93-great-wall.md)
 - [#94 - Ripples](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/16-aspect/94-ripples.md)
 - [#95 - Pokeball](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/16-aspect/95-pokeball.md)
+- [#96 - Mandala](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/16-aspect/96-mandala.md)
 
 ## Battle #17 - Chrismas
 
