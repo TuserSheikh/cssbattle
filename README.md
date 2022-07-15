@@ -6,6 +6,7 @@
 - [#82 - Diamond Cut](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/15-filter/82-diamond-cut.md)
 - [#83 - Supernova](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/15-filter/83-supernova.md)
 - [#84 - Junction](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/15-filter/84-junction.md)
+- [#85 - Pythagoras](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/15-filter/85-pythagoras.md)
 
 ## Battle #16 - Aspect
 
