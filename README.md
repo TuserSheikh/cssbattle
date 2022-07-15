@@ -3,6 +3,7 @@
 ## Battle #15 - Filter
 
 - [#81 - Odoo](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/15-filter/81-odoo.md)
+- [#82 - Diamond Cut](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/15-filter/82-diamond-cut.md)
 
 ## Battle #16 - Aspect
 
