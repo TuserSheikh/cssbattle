@@ -4,6 +4,7 @@
 
 - [#77 - Notes](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/14-zindex/77-notes.md)
 - [#78 - Ukulele](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/14-zindex/78-ukulele.md)
+- [#79 - Tambourine](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/14-zindex/79-tambourine.md)
 
 ## Battle #15 - Filter
 
