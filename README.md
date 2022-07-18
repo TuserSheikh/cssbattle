@@ -36,6 +36,10 @@
 - [#99 - Gift Box](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/17-christmas/99-gift-box.md)
 - [#100 - CSSBattle](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/17-christmas/100-cssbattle.md)
 
+## Battle #18 - Float
+
+- [#101- Sharingan](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/18-float/101-sharingan.md)
+
 ## Battle #19 - Spacing
 
 - [#109 - Curtain](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/19-spacing/109-curtain.md)
