@@ -1,6 +1,6 @@
 # Battle #18 - Float
 
-## #101. Sharingan
+## #101 - Sharingan
 
 [Link to the problem](https://cssbattle.dev/play/101)
 
