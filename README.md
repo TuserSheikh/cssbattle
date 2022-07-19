@@ -40,6 +40,7 @@
 
 - [#101- Sharingan](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/18-float/101-sharingan.md)
 - [#102- One Piece](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/18-float/102-one-piece.md)
+- [#103- Super Saiyan](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/18-float/103-super-saiyan.md)
 
 ## Battle #19 - Spacing
 
