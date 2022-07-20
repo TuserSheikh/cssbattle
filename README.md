@@ -43,6 +43,7 @@
 - [#103- Super Saiyan](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/18-float/103-super-saiyan.md)
 - [#104- Amegakure](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/18-float/104-amegakure.md)
 - [#105- Ryuk](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/18-float/105-ryuk.md)
+- [#106- Ryuk's Apple](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/18-float/106-ryuks-apple.md)
 
 ## Battle #19 - Spacing
 
