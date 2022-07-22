@@ -1,5 +1,9 @@
 # cssbattle
 
+## Battle #13 - Clip
+
+- [#76 - Beeee](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/13-clip/76-beeee.md)
+
 ## Battle #14 - ZIndex
 
 - [#77 - Notes](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/14-zindex/77-notes.md)
