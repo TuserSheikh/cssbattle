@@ -8,9 +8,9 @@
 
 ```html
 <main>
-	<div class="left"></div>
-	<div class="right"></div>
-	<div class="bee"></div>
+  <div class="left"></div>
+  <div class="right"></div>
+  <div class="bee"></div>
 </main>
 <style>
   body {
@@ -26,32 +26,32 @@
     grid-template-columns: 1fr 1fr;
   }
   .left {
-    background: #FFFFFF;
+    background: #ffffff;
     border-radius: 50px 50px 0 50px;
   }
   .right {
-    background: #FFFFFF;
+    background: #ffffff;
     border-radius: 50px 50px 50px 0;
   }
   .bee {
-    grid-column: 1 / 3; 
+    grid-column: 1 / 3;
     border-radius: 50px;
     background: linear-gradient(
       to right,
       #191919 25px,
-      #EFF33C 25px,
-      #EFF33C 35px,
+      #eff33c 25px,
+      #eff33c 35px,
       #191919 35px,
       #191919 60px,
-      #EFF33C 60px,
-      #EFF33C 70px,
+      #eff33c 60px,
+      #eff33c 70px,
       #191919 70px,
       #191919 95px,
-      #EFF33C 95px
+      #eff33c 95px
     );
   }
   .bee::after {
-    content: '';
+    content: "";
     position: absolute;
     top: 170;
     right: 145;
