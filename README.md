@@ -45,6 +45,7 @@
 - [#105- Ryuk](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/18-float/105-ryuk.md)
 - [#106- Ryuk's Apple](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/18-float/106-ryuks-apple.md)
 - [#107- Sealing Wand](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/18-float/107-sealing-wand.md)
+- [#108- Clow Card](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/18-float/108-clow-card.md)
 
 ## Battle #19 - Spacing
 
