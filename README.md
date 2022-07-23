@@ -2,6 +2,7 @@
 
 ## Battle #13 - Clip
 
+- [#75 - Hippo](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/13-clip/75-hippo.md)
 - [#76 - Beeee](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/13-clip/76-beeee.md)
 
 ## Battle #14 - ZIndex
