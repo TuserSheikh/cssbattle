@@ -1,4 +1,4 @@
-# cssbattle
+# cssbattles
 
 ## Battle #1 - Pilot Battle
 
