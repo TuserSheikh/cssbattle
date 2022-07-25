@@ -1,6 +1,6 @@
 # Battle #1 - Pilot Battle
 
-## #3. Push Button
+## #3 - Push Button
 
 [Link to the problem](https://cssbattle.dev/play/3)
 
