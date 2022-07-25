@@ -4,6 +4,7 @@
 
 - [#1 - Simply Square](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/1-simply-square.md)
 - [#2 - Carrom](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/2-carrom.md)
+- [#3 - Push Button](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/3-push-button.md)
 
 ## Battle #13 - Clip
 
