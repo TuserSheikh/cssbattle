@@ -2,6 +2,10 @@
 
 ## Battle #13 - Clip
 
+- [#1 - Simply Square](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/1-pilot-battle/1-simply-square.md)
+
+## Battle #13 - Clip
+
 - [#75 - Hippo](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/13-clip/75-hippo.md)
 - [#76 - Beeee](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/13-clip/76-beeee.md)
 
