@@ -3,6 +3,7 @@
 ## Battle #1 - Pilot Battle
 
 - [#1 - Simply Square](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/1-pilot-battle/1-simply-square.md)
+- [#2 - Carrom](https://github.com/TuserSheikh/cssbattle/blob/main/solutions/1-pilot-battle/2-carrom.md)
 
 ## Battle #13 - Clip
 
