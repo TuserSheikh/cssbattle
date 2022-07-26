@@ -11,9 +11,8 @@
 <style>
   body {
     background: #e3516e;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
   }
   div {
     width: 200px;
