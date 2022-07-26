@@ -9,6 +9,7 @@
 - [#5 - Acid Rain](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/5-acid-rain.md)
 - [#6 - Missing Slice](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/6-missing-slice.md)
 - [#7 - Leafly Trail](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/7-leafly-trail.md)
+- [#8 - Forking Crazy](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/8-forking-crazy.md)
 
 ## Battle #13 - Clip
 
