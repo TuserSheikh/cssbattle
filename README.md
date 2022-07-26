@@ -7,6 +7,7 @@
 - [#3 - Push Button](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/3-push-button.md)
 - [#4 - Ups n Downs](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/4-ups-n-downs.md)
 - [#5 - Acid Rain](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/5-acid-rain.md)
+- [#6 - Missing Slice](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/6-missing-slice.md)
 
 ## Battle #13 - Clip
 
