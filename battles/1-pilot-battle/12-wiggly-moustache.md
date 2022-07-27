@@ -24,11 +24,12 @@
   }
   div::after {
     content: "";
-    position: absolute;
-    background: #d86f45;
     width: 20px;
     height: 20px;
-    margin: -10px 0 0 -20px;
+    background: #d86f45;
+    position: absolute;
+    left: -20px;
+    top: -10px;
     border-radius: 10px;
     box-shadow: 80px 0 #d86f45;
   }
