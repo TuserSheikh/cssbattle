@@ -58,7 +58,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#102- One Piece](https://github.com/TuserSheikh/cssbattle/blob/main/battles/18-float/102-one-piece.md)
 - [#101- Sharingan](https://github.com/TuserSheikh/cssbattle/blob/main/battles/18-float/101-sharingan.md)
 
-## Battle #17 - Chrismas
+## Battle #17 - Christmas
 
 - [#100 - CSSBattle](https://github.com/TuserSheikh/cssbattle/blob/main/battles/17-christmas/100-cssbattle.md)
 - [#99 - Gift Box](https://github.com/TuserSheikh/cssbattle/blob/main/battles/17-christmas/99-gift-box.md)
