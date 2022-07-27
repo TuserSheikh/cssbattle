@@ -13,3 +13,4 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#9 - Tesseract](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/9-tesseract.md)
 - [#10 - Cloaked Spirits](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/10-cloaked-spirits.md)
 - [#11 - Eye of Sauron](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/11-eye-of-sauron.md)
+- [#12 - Wiggly Moustache](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/12-wiggly-moustache.md)
