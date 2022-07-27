@@ -14,3 +14,12 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#10 - Cloaked Spirits](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/10-cloaked-spirits.md)
 - [#11 - Eye of Sauron](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/11-eye-of-sauron.md)
 - [#12 - Wiggly Moustache](https://github.com/TuserSheikh/cssbattle/blob/main/battles/1-pilot-battle/12-wiggly-moustache.md)
+
+## Battle #2 - Visibility
+
+- [#13 - Totally Triangle](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/13-totally-triangle.md)
+- [#14 - Web Maker Logo](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/14-web-maker-logo.md)
+- [#15 - Overlap](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/15-overlap.md)
+- [#16 - Eye of the Tiger](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/16-eye-of-the-tiger.md)
+- [#17 - Fidget Spinner](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/17-fidget-spinner.md)
+- [#18 - Matrix](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/18-matrix.md)
