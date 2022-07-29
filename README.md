@@ -189,8 +189,8 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 - [#18 - Matrix](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/18-matrix.md) ⏳
 - [#17 - Fidget Spinner](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/17-fidget-spinner.md) ⏳
-- [#16 - Eye of the Tiger](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/16-eye-of-the-tiger.md) ⏳
-- [#15 - Overlap](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/15-overlap.md) ⏳
+- [#16 - Eye of the Tiger](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/16-eye-of-the-tiger.md)
+- [#15 - Overlap](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/15-overlap.md)
 - [#14 - Web Maker Logo](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/14-web-maker-logo.md)
 - [#13 - Totally Triangle](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/13-totally-triangle.md)
 
