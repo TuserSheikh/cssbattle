@@ -177,7 +177,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#25 - Blossom](https://github.com/TuserSheikh/cssbattle/blob/main/battles/4-display/25-blossom.md) ⏳
 - [#24 - Switches](https://github.com/TuserSheikh/cssbattle/blob/main/battles/4-display/24-switches.md) ⏳
 - [#23 - Boxception](https://github.com/TuserSheikh/cssbattle/blob/main/battles/4-display/23-boxception.md) ⏳
-- [#22 - Cloud](https://github.com/TuserSheikh/cssbattle/blob/main/battles/4-display/22-cloud.md) ⏳
+- [#22 - Cloud](https://github.com/TuserSheikh/cssbattle/blob/main/battles/4-display/22-cloud.md)
 - [#21 - SitePoint Logo](https://github.com/TuserSheikh/cssbattle/blob/main/battles/4-display/21-sitepoint-logo.md) ⏳
 
 ## Battle #3 - Cursor
