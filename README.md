@@ -21,7 +21,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #6 - Conic](#battle-6---conic) ⏳
 - [Battle #5 - Inline](#battle-5---inline) ⏳
 - [Battle #4 - Display](#battle-4---display) ⏳
-- [Battle #3 - Cursor](#battle-3---cursor) ⏳
+- [Battle #3 - Cursor](#battle-3---cursor)
 - [Battle #2 - Visibility](#battle-2---visibility)
 - [Battle #1 - Pilot Battle](#battle-1---pilot-battle)
 
@@ -182,8 +182,8 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #3 - Cursor
 
-- [#20 - Ticket](https://github.com/TuserSheikh/cssbattle/blob/main/battles/3-cursor/20-ticket.md) ⏳
-- [#19 - Cube](https://github.com/TuserSheikh/cssbattle/blob/main/battles/3-cursor/19-cube.md) ⏳
+- [#20 - Ticket](https://github.com/TuserSheikh/cssbattle/blob/main/battles/3-cursor/20-ticket.md)
+- [#19 - Cube](https://github.com/TuserSheikh/cssbattle/blob/main/battles/3-cursor/19-cube.md)
 
 ## Battle #2 - Visibility
 
