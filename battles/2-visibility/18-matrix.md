@@ -8,35 +8,18 @@
 
 ```html
 <div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
-<div></div>
 <style>
   body {
     background: #5c434c;
     margin: 10px;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    height: 100%;
-    gap: 20px;
   }
   div {
     width: 80px;
     height: 80px;
     border-radius: 80px 0 0 0;
     background: #f09462;
-  }
-  div:nth-child(even) {
-    background: #f5d6b4;
+    box-shadow: 100px 0 #f5d6b4, 200px 0 #f09462, 300px 0 #f5d6b4, 0 100px #f5d6b4, 100px 100px #f09462, 200px 100px
+        #f5d6b4, 300px 100px #f09462, 0 200px #f09462, 100px 200px #f5d6b4, 200px 200px #f09462, 300px 200px #f5d6b4;
   }
 </style>
 ```
