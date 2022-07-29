@@ -29,8 +29,8 @@
     border-radius: 50px;
     background: #d86f45;
     position: absolute;
-    bottom: -30;
-    right: -20;
+    bottom: -30px;
+    right: -20px;
   }
 </style>
 ```
