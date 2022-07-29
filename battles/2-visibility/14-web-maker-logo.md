@@ -15,15 +15,15 @@
   }
   div {
     position: absolute;
-    top: 85;
-    left: 60;
+    top: 85px;
+    left: 60px;
     border-top: 130px solid #ff6d00;
     border-left: 75px solid transparent;
     border-right: 75px solid transparent;
     filter: drop-shadow(20px 0 #fd4602);
   }
   div:last-of-type {
-    left: 170;
+    left: 170px;
     border-top: 130px solid #fd4602;
     filter: drop-shadow(-20px 0 #ff6d00);
     transform: scale(-1);
