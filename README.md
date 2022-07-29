@@ -22,7 +22,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #5 - Inline](#battle-5---inline) ⏳
 - [Battle #4 - Display](#battle-4---display) ⏳
 - [Battle #3 - Cursor](#battle-3---cursor) ⏳
-- [Battle #2 - Visibility](#battle-2---visibility) ⏳
+- [Battle #2 - Visibility](#battle-2---visibility)
 - [Battle #1 - Pilot Battle](#battle-1---pilot-battle)
 
 ## Battle #20 - Hover
@@ -187,7 +187,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #2 - Visibility
 
-- [#18 - Matrix](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/18-matrix.md) ⏳
+- [#18 - Matrix](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/18-matrix.md)
 - [#17 - Fidget Spinner](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/17-fidget-spinner.md)
 - [#16 - Eye of the Tiger](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/16-eye-of-the-tiger.md)
 - [#15 - Overlap](https://github.com/TuserSheikh/cssbattle/blob/main/battles/2-visibility/15-overlap.md)
