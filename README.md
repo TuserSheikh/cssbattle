@@ -18,7 +18,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #9 - Margin](#battle-9---margin) ⏳
 - [Battle #8 - Transition](#battle-8---transition) ⏳
 - [Battle #7 - Backface](#battle-7---backface) ⏳
-- [Battle #6 - Conic](#battle-6---conic) ⏳
+- [Battle #6 - Conic](#battle-6---conic)
 - [Battle #5 - Inline](#battle-5---inline)
 - [Battle #4 - Display](#battle-4---display)
 - [Battle #3 - Cursor](#battle-3---cursor)
@@ -156,8 +156,8 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#37 - Tunnel](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/37-tunnel.md) ⏳
 - [#36 - Interleaved](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/36-interleaved.md) ⏳
 - [#34 - Ice Cream](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/35-ice-cream.md) ⏳
-- [#34 - Christmas Tree](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/34-christmas-tree.md) ⏳
-- [#33 - Birdie](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/33-birdie.md) ⏳
+- [#34 - Christmas Tree](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/34-christmas-tree.md)
+- [#33 - Birdie](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/33-birdie.md)
 
 ## Battle #6 - Conic
 
