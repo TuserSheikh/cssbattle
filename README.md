@@ -16,7 +16,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #11 - Overflow](#battle-11---overflow) ⏳
 - [Battle #10 - Block](#battle-10---block) ⏳
 - [Battle #9 - Margin](#battle-9---margin) ⏳
-- [Battle #8 - Transition](#battle-8---transition) ⏳
+- [Battle #8 - Transition](#battle-8---transition)
 - [Battle #7 - Backface](#battle-7---backface)
 - [Battle #6 - Conic](#battle-6---conic)
 - [Battle #5 - Inline](#battle-5---inline)
@@ -143,7 +143,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #8 - Transition
 
-- [#44 - Stripes](https://github.com/TuserSheikh/cssbattle/blob/main/battles/8-transition/44-stripes.md) ⏳
+- [#44 - Stripes](https://github.com/TuserSheikh/cssbattle/blob/main/battles/8-transition/44-stripes.md)
 - [#43 - Wrench](https://github.com/TuserSheikh/cssbattle/blob/main/battles/8-transition/43-wrench.md)
 - [#42 - Baby](https://github.com/TuserSheikh/cssbattle/blob/main/battles/8-transition/42-baby.md)
 
