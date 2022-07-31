@@ -20,7 +20,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #7 - Backface](#battle-7---backface) ⏳
 - [Battle #6 - Conic](#battle-6---conic) ⏳
 - [Battle #5 - Inline](#battle-5---inline) ⏳
-- [Battle #4 - Display](#battle-4---display) ⏳
+- [Battle #4 - Display](#battle-4---display)
 - [Battle #3 - Cursor](#battle-3---cursor)
 - [Battle #2 - Visibility](#battle-2---visibility)
 - [Battle #1 - Pilot Battle](#battle-1---pilot-battle)
@@ -166,7 +166,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #5 - Inline
 
-- [#30 - Hrizon](https://github.com/TuserSheikh/cssbattle/blob/main/battles/5-inline/30-hrizon.md) ⏳
+- [#30 - Hrizon](https://github.com/TuserSheikh/cssbattle/blob/main/battles/5-inline/30-hrizon.md)
 - [#29 - Suffocate](https://github.com/TuserSheikh/cssbattle/blob/main/battles/5-inline/29-suffocate.md) ⏳
 
 ## Battle #4 - Display
