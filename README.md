@@ -154,7 +154,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#39 - Sunset](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/39-sunset.md) ⏳
 - [#38 - Not Simply Square](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/38-not-simply-square.md) ⏳
 - [#37 - Tunnel](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/37-tunnel.md) ⏳
-- [#36 - Interleaved](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/36-interleaved.md) ⏳
+- [#36 - Interleaved](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/36-interleaved.md)
 - [#35 - Ice Cream](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/35-ice-cream.md)
 - [#34 - Christmas Tree](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/34-christmas-tree.md)
 - [#33 - Birdie](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/33-birdie.md)
