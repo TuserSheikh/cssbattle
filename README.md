@@ -145,7 +145,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 - [#44 - Stripes](https://github.com/TuserSheikh/cssbattle/blob/main/battles/8-transition/44-stripes.md) ⏳
 - [#43 - Wrench](https://github.com/TuserSheikh/cssbattle/blob/main/battles/8-transition/43-wrench.md) ⏳
-- [#42 - Baby](https://github.com/TuserSheikh/cssbattle/blob/main/battles/8-transition/42-baby.md) ⏳
+- [#42 - Baby](https://github.com/TuserSheikh/cssbattle/blob/main/battles/8-transition/42-baby.md)
 
 ## Battle #7 - Backface
 

@@ -1,4 +1,4 @@
-# Battle #6 - Backface
+# Battle #7 - Backface
 
 ## #34 - Christmas Tree
 
