@@ -166,7 +166,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #5 - Inline
 
-- [#30 - Hrizon](https://github.com/TuserSheikh/cssbattle/blob/main/battles/5-inline/30-hrizon.md)
+- [#30 - Horizon](https://github.com/TuserSheikh/cssbattle/blob/main/battles/5-inline/30-horizon.md)
 - [#29 - Suffocate](https://github.com/TuserSheikh/cssbattle/blob/main/battles/5-inline/29-suffocate.md)
 
 ## Battle #4 - Display
