@@ -139,7 +139,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 ## Battle #9 - Margin
 
 - [#46 - Mountains](https://github.com/TuserSheikh/cssbattle/blob/main/battles/9-margin/46-mountains.md) ⏳
-- [#45 - Magical Tree](https://github.com/TuserSheikh/cssbattle/blob/main/battles/9-margin/45-magical-tree.md) ⏳
+- [#45 - Magical Tree](https://github.com/TuserSheikh/cssbattle/blob/main/battles/9-margin/45-magical-tree.md)
 
 ## Battle #8 - Transition
 
