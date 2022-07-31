@@ -162,7 +162,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 ## Battle #6 - Conic
 
 - [#32 - Band-aid](https://github.com/TuserSheikh/cssbattle/blob/main/battles/6-conic/32-band-aid.md) ⏳
-- [#31 - Equals](https://github.com/TuserSheikh/cssbattle/blob/main/battles/6-conic/31-equals.md) ⏳
+- [#31 - Equals](https://github.com/TuserSheikh/cssbattle/blob/main/battles/6-conic/31-equals.md)
 
 ## Battle #5 - Inline
 
