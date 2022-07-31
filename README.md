@@ -174,7 +174,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#28 - Cups & Balls](https://github.com/TuserSheikh/cssbattle/blob/main/battles/4-display/28-cups-&-balls.md)
 - [#27 - Lock Up](https://github.com/TuserSheikh/cssbattle/blob/main/battles/4-display/27-lock-up.md)
 - [#26 - Smiley](https://github.com/TuserSheikh/cssbattle/blob/main/battles/4-display/26-smiley.md)
-- [#25 - Blossom](https://github.com/TuserSheikh/cssbattle/blob/main/battles/4-display/25-blossom.md) ⏳
+- [#25 - Blossom](https://github.com/TuserSheikh/cssbattle/blob/main/battles/4-display/25-blossom.md)
 - [#24 - Switches](https://github.com/TuserSheikh/cssbattle/blob/main/battles/4-display/24-switches.md)
 - [#23 - Boxception](https://github.com/TuserSheikh/cssbattle/blob/main/battles/4-display/23-boxception.md)
 - [#22 - Cloud](https://github.com/TuserSheikh/cssbattle/blob/main/battles/4-display/22-cloud.md)
