@@ -1,6 +1,6 @@
 # Battle #6 - Backface
 
-## #37 - Christmas Tree
+## #34 - Christmas Tree
 
 [Link to the problem](https://cssbattle.dev/play/34)
 
