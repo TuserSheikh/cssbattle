@@ -15,7 +15,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #12 - Blend](#battle-12---blend) ⏳
 - [Battle #11 - Overflow](#battle-11---overflow) ⏳
 - [Battle #10 - Block](#battle-10---block) ⏳
-- [Battle #9 - Margin](#battle-9---margin) ⏳
+- [Battle #9 - Margin](#battle-9---margin)
 - [Battle #8 - Transition](#battle-8---transition)
 - [Battle #7 - Backface](#battle-7---backface)
 - [Battle #6 - Conic](#battle-6---conic)
@@ -138,7 +138,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #9 - Margin
 
-- [#46 - Mountains](https://github.com/TuserSheikh/cssbattle/blob/main/battles/9-margin/46-mountains.md) ⏳
+- [#46 - Mountains](https://github.com/TuserSheikh/cssbattle/blob/main/battles/9-margin/46-mountains.md)
 - [#45 - Magical Tree](https://github.com/TuserSheikh/cssbattle/blob/main/battles/9-margin/45-magical-tree.md)
 
 ## Battle #8 - Transition
