@@ -17,7 +17,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #10 - Block](#battle-10---block) ⏳
 - [Battle #9 - Margin](#battle-9---margin) ⏳
 - [Battle #8 - Transition](#battle-8---transition) ⏳
-- [Battle #7 - Backface](#battle-7---backface) ⏳
+- [Battle #7 - Backface](#battle-7---backface)
 - [Battle #6 - Conic](#battle-6---conic)
 - [Battle #5 - Inline](#battle-5---inline)
 - [Battle #4 - Display](#battle-4---display)
@@ -149,7 +149,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #7 - Backface
 
-- [#41 - Fox Head](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/41-fox-head.md) ⏳
+- [#41 - Fox Head](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/41-fox-head.md)
 - [#40 - Letter B](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/40-letter-b.md)
 - [#39 - Sunset](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/39-sunset.md)
 - [#38 - Not Simply Square](https://github.com/TuserSheikh/cssbattle/blob/main/battles/7-backface/38-not-simply-square.md)
