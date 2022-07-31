@@ -14,8 +14,8 @@
   }
   div {
     position: absolute;
-    left: 75;
-    top: 50;
+    left: 75px;
+    top: 50px;
     border-left: 125px solid transparent;
     border-right: 125px solid transparent;
     border-bottom: 100px solid #ffeecf;
