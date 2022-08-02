@@ -1,6 +1,6 @@
 # Battle #10 - Block
 
-## #51 - Break the Chain
+## #52 - Break the Chain
 
 [Link to the problem](https://cssbattle.dev/play/52)
 
