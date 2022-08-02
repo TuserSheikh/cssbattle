@@ -130,7 +130,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 ## Battle #10 - Block
 
 - [#52 - Break the Chain](https://github.com/TuserSheikh/cssbattle/blob/main/battles/10-block/52-break-the-chain.md) ⏳
-- [#51 - Wear a Mask](https://github.com/TuserSheikh/cssbattle/blob/main/battles/10-block/51-wear-a-mask.md) ⏳
+- [#51 - Wear a Mask](https://github.com/TuserSheikh/cssbattle/blob/main/battles/10-block/51-wear-a-mask.md)
 - [#50 - Use Hand Sanitizer](https://github.com/TuserSheikh/cssbattle/blob/main/battles/10-block/50-use-hand-sanitizer.md)
 - [#49 - Stay at Home](https://github.com/TuserSheikh/cssbattle/blob/main/battles/10-block/49-stay-at-home.md)
 - [#48 - Wash Your Hands](https://github.com/TuserSheikh/cssbattle/blob/main/battles/10-block/48-wash-your-hands.md)
