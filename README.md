@@ -14,7 +14,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #13 - Clip](#battle-13---clip) ⏳
 - [Battle #12 - Blend](#battle-12---blend) ⏳
 - [Battle #11 - Overflow](#battle-11---overflow) ⏳
-- [Battle #10 - Block](#battle-10---block) ⏳
+- [Battle #10 - Block](#battle-10---block)
 - [Battle #9 - Margin](#battle-9---margin)
 - [Battle #8 - Transition](#battle-8---transition)
 - [Battle #7 - Backface](#battle-7---backface)
@@ -129,7 +129,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #10 - Block
 
-- [#52 - Break the Chain](https://github.com/TuserSheikh/cssbattle/blob/main/battles/10-block/52-break-the-chain.md) ⏳
+- [#52 - Break the Chain](https://github.com/TuserSheikh/cssbattle/blob/main/battles/10-block/52-break-the-chain.md)
 - [#51 - Wear a Mask](https://github.com/TuserSheikh/cssbattle/blob/main/battles/10-block/51-wear-a-mask.md)
 - [#50 - Use Hand Sanitizer](https://github.com/TuserSheikh/cssbattle/blob/main/battles/10-block/50-use-hand-sanitizer.md)
 - [#49 - Stay at Home](https://github.com/TuserSheikh/cssbattle/blob/main/battles/10-block/49-stay-at-home.md)
