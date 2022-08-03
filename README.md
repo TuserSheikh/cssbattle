@@ -119,7 +119,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 ## Battle #11 - Overflow
 
 - [#60 - Evil Triangles](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/60-evil-triangles.md) ⏳
-- [#59 - Earth](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/59-earth.md) ⏳
+- [#59 - Earth](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/59-earth.md)
 - [#58 - Rose](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/58-rose.md) ⏳
 - [#57 - Pillars](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/57-pillars.md)
 - [#56 - Skull](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/56-skull.md)
