@@ -123,7 +123,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#58 - Rose](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/58-rose.md) ⏳
 - [#57 - Pillars](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/57-pillars.md) ⏳
 - [#56 - Skull](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/56-skull.md) ⏳
-- [#55 - Windmill](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/55-windmill.md) ⏳
+- [#55 - Windmill](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/55-windmill.md)
 - [#54 - Black Lives Matter](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/54-black-lives-matter.md)
 - [#53 - Pastel Logo](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/53-pastel-logo.md)
 
