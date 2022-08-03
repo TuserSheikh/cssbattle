@@ -1,6 +1,6 @@
 # Battle #13 - Clip
 
-## #75. Hippo
+## #75 - Hippo
 
 [Link to the problem](https://cssbattle.dev/play/75)
 

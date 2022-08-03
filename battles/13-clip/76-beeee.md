@@ -1,6 +1,6 @@
 # Battle #13 - Clip
 
-## #76. Beeee
+## #76 - Beeee
 
 [Link to the problem](https://cssbattle.dev/play/76)
 
