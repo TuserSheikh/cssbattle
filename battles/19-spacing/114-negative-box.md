@@ -8,15 +8,15 @@
 
 ```html
 <div class="rect"></div>
-<div class="tri"></div>
+<div class="triangle"></div>
 <style>
-  * {
+  body {
     background: #172d2c;
   }
-  .tri {
+  .triangle {
     position: absolute;
-    top: 20;
-    left: 200;
+    top: 20px;
+    left: 200px;
     border-left: 180px solid #e9af53;
     border-top: 65px solid transparent;
     border-bottom: 65px solid transparent;
@@ -26,8 +26,8 @@
     height: 130px;
     position: absolute;
     background: #e9af53;
-    top: 117;
-    left: 20;
+    top: 117px;
+    left: 20px;
     transform: skewY(20deg);
   }
 </style>
