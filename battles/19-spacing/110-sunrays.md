@@ -26,37 +26,37 @@
     position: absolute;
   }
   .l1 {
-    top: 150;
-    left: 125;
+    top: 150px;
+    left: 125px;
     transform: rotate(90deg);
   }
   .l2 {
-    top: 115;
-    left: 135;
+    top: 115px;
+    left: 135px;
     transform: rotate(-60deg);
   }
   .l3 {
-    top: 90;
-    left: 160;
+    top: 90px;
+    left: 160px;
     transform: rotate(-30deg);
   }
   .l4 {
-    top: 80;
-    left: 195;
+    top: 80px;
+    left: 195px;
   }
   .l5 {
-    top: 90;
-    right: 160;
+    top: 90px;
+    right: 160px;
     transform: rotate(30deg);
   }
   .l6 {
-    top: 115;
-    right: 135;
+    top: 115px;
+    right: 135px;
     transform: rotate(60deg);
   }
   .l7 {
-    top: 150;
-    right: 125;
+    top: 150px;
+    right: 125px;
     transform: rotate(90deg);
   }
 </style>
