@@ -45,7 +45,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#112 - Chevron](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/112-chevron.md) ⏳
 - [#111 - Rain Drops](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/111-rain-drops.md) ⏳
 - [#110 - Sunrays](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/110-sunrays.md) ⏳
-- [#109 - Curtain](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/109-curtain.md) ⏳
+- [#109 - Curtain](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/109-curtain.md)
 
 ## Battle #18 - Float
 
