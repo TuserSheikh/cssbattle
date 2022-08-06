@@ -13,27 +13,19 @@
 <style>
   body {
     margin: 0;
+    background: linear-gradient(#c36271 50%, #f2e09f 50%);
   }
-  .top {
-    height: 50%;
-    background: #c36271;
-  }
+  .top,
   .bottom {
-    height: 50%;
-    background: #f2e09f;
-  }
-  .top::after,
-  .bottom::after {
-    content: "";
     position: absolute;
     width: 95%;
     height: 50%;
   }
-  .top::after {
+  .top {
     background: #f2e09f;
     border-radius: 0 0 100px 0;
   }
-  .bottom::after {
+  .bottom {
     bottom: 0;
     right: 0;
     background: #c36271;
@@ -41,8 +33,8 @@
   }
   .circle {
     position: absolute;
-    top: 100;
-    left: 150;
+    top: 100px;
+    left: 150px;
     height: 100px;
     width: 100px;
     background: linear-gradient(#c36271 50%, #f2e09f 50%);

@@ -39,7 +39,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 ## Battle #19 - Spacing
 
 - [#116 - Headphones](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/116-headphones.md)
-- [#115 - Droplet](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/115-droplet.md) ⏳
+- [#115 - Droplet](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/115-droplet.md)
 - [#114 - Negative Box](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/114-negative-box.md) ⏳
 - [#113 - Black Light](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/113-black-light.md) ⏳
 - [#112 - Chevron](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/112-chevron.md) ⏳
