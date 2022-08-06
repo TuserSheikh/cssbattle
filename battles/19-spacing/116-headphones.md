@@ -16,7 +16,7 @@
   }
   div {
     position: absolute;
-    top: 45;
+    top: 45px;
     width: 130px;
     height: 100px;
     border-radius: 85px 85px 0 0;
@@ -30,14 +30,14 @@
     height: 80px;
     background: #6e91ca;
     position: absolute;
-    top: 100;
+    top: 100px;
   }
   div::before {
-    left: -20;
+    left: -20px;
     border-radius: 0 35px 50px 50px;
   }
   div::after {
-    right: -20;
+    right: -20px;
     border-radius: 35px 0 50px 50px;
   }
 </style>
