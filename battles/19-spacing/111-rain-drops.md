@@ -11,7 +11,7 @@
 <div class="two"></div>
 <div class="three"></div>
 <style>
-  * {
+  body {
     background: #f3ac3c;
   }
   div {
@@ -23,18 +23,18 @@
   }
   .one {
     transform: rotate(45deg);
-    top: 40;
-    left: 160;
+    top: 40px;
+    left: 160px;
   }
   .two {
-    transform: rotate(225deg);
-    top: 180;
-    left: 160;
+    transform: rotate(-135deg);
+    top: 180px;
+    left: 160px;
   }
   .three {
-    transform: rotate(315deg);
-    top: 110;
-    left: 80;
+    transform: rotate(-45deg);
+    top: 110px;
+    left: 80px;
   }
 </style>
 ```
