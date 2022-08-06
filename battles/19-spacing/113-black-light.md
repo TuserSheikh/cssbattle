@@ -9,8 +9,8 @@
 ```html
 <div></div>
 <style>
-  * {
-    background: #5776f6;
+  body {
+    background: #5776F6;
     margin: 0;
   }
   div {
