@@ -53,7 +53,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#107- Sealing Wand](https://github.com/TuserSheikh/cssbattle/blob/main/battles/18-float/107-sealing-wand.md) ⏳
 - [#106- Ryuk's Apple](https://github.com/TuserSheikh/cssbattle/blob/main/battles/18-float/106-ryuks-apple.md) ⏳
 - [#105- Ryuk](https://github.com/TuserSheikh/cssbattle/blob/main/battles/18-float/105-ryuk.md) ⏳
-- [#104- Amegakure](https://github.com/TuserSheikh/cssbattle/blob/main/battles/18-float/104-amegakure.md) ⏳
+- [#104- Amegakure](https://github.com/TuserSheikh/cssbattle/blob/main/battles/18-float/104-amegakure.md)
 - [#103- Super Saiyan](https://github.com/TuserSheikh/cssbattle/blob/main/battles/18-float/103-super-saiyan.md) ⏳
 - [#102- One Piece](https://github.com/TuserSheikh/cssbattle/blob/main/battles/18-float/102-one-piece.md)
 - [#101- Sharingan](https://github.com/TuserSheikh/cssbattle/blob/main/battles/18-float/101-sharingan.md) ⏳
