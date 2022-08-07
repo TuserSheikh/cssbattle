@@ -5,7 +5,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 ## Table of contents
 
 - [Battle #20 - Hover](#battle-20---hover) ⏳
-- [Battle #19 - Spacing](#battle-19---spacing) ⏳
+- [Battle #19 - Spacing](#battle-19---spacing)
 - [Battle #18 - Float](#battle-18---float) ⏳
 - [Battle #17 - Christmas](#battle-17---christmas) ⏳
 - [Battle #16 - Aspect](#battle-16---aspect) ⏳
@@ -42,7 +42,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#115 - Droplet](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/115-droplet.md)
 - [#114 - Negative Box](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/114-negative-box.md)
 - [#113 - Black Light](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/113-black-light.md)
-- [#112 - Chevron](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/112-chevron.md) ⏳
+- [#112 - Chevron](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/112-chevron.md)
 - [#111 - Rain Drops](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/111-rain-drops.md)
 - [#110 - Sunrays](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/110-sunrays.md)
 - [#109 - Curtain](https://github.com/TuserSheikh/cssbattle/blob/main/battles/19-spacing/109-curtain.md)
