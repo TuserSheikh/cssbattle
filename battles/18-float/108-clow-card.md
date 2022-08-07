@@ -14,10 +14,9 @@
 </main>
 <style>
   body {
-    background: #000000;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    background: #000;
+    display: grid;
+    place-items: center;
   }
   main {
     width: 300px;
@@ -25,26 +24,21 @@
     background: linear-gradient(
       105deg,
       #e96a23 120px,
-      #ebae11 120px,
-      #ebae11 170px,
-      #e96a23 170px,
-      #e96a23 184px,
-      #ebae11 184px,
-      #ebae11 209px,
+      #ebae11 120px 170px,
+      #e96a23 170px 184px,
+      #ebae11 184px 209px,
       #e96a23 209px
     );
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
   }
   .black {
     width: 240px;
     height: 120px;
     border-radius: 13px;
-    background: #000000;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    background: #000;
+    display: grid;
+    place-items: center;
   }
   .black::before {
     content: "";
@@ -52,7 +46,7 @@
     width: 270px;
     height: 90px;
     border-radius: 13px;
-    background: #000000;
+    background: #000;
   }
   .black::after {
     content: "";
@@ -68,9 +62,8 @@
     height: 60px;
     border-radius: 50%;
     border: 5px solid #ebae11;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
   }
   .center::after {
     content: "";
