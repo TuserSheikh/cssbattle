@@ -29,18 +29,18 @@
   .eye {
     width: 120px;
     height: 120px;
-    background: #000000;
+    background: #000;
     border-radius: 0 50%;
     position: absolute;
-    top: 130;
+    top: 130px;
   }
   .eye-left {
     transform: rotate(-15deg);
-    left: 30;
+    left: 30px;
   }
   .eye-right {
     transform: rotate(-75deg);
-    right: 30;
+    right: 30px;
   }
   .circle {
     width: 100px;
@@ -48,7 +48,7 @@
     background: #5a6042;
     border-radius: 50%;
     position: absolute;
-    top: 140;
+    top: 140px;
     overflow: hidden;
   }
   .c-left {
@@ -64,7 +64,7 @@
     background: #868a64;
     border-radius: 50%;
     position: absolute;
-    top: 15;
+    top: 15px;
   }
   .circle::after {
     content: "";
@@ -73,9 +73,9 @@
     background: #4e2b24;
     border-radius: 50%;
     position: absolute;
-    top: 30;
-    left: 30;
-    border: 5px solid #000000;
+    top: 30px;
+    left: 30px;
+    border: 5px solid #000;
   }
 </style>
 ```
