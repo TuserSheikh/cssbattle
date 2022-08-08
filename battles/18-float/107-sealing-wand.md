@@ -14,64 +14,61 @@
 <div class="left"></div>
 <div class="top"></div>
 <style>
-  * {
+  body {
     background: #161616;
   }
-  .bottom {
+  div {
     position: absolute;
-    top: 200;
-    left: 190;
+  }
+  .bottom {
+    top: 200px;
+    left: 190px;
     width: 20px;
     height: 110px;
     background: #e96a23;
   }
   .right {
-    position: absolute;
-    top: 129;
-    left: 200;
+    top: 129px;
+    left: 200px;
     width: 80px;
     height: 40px;
     background: #e96a23;
     border-radius: 0 40px 5px 0;
   }
   .mid {
-    position: absolute;
-    top: 120;
-    left: 170;
+    top: 120px;
+    left: 170px;
     width: 60px;
     height: 60px;
     background: #a22015;
     border-radius: 50%;
   }
   .mid-down {
-    position: absolute;
-    top: 153;
-    left: 185;
+    top: 153px;
+    left: 185px;
     width: 30px;
     height: 50px;
     background: #a22015;
     border-radius: 0 0 10px 10px;
   }
   .left {
-    position: absolute;
-    top: 132;
-    left: 130;
+    top: 132px;
+    left: 130px;
     width: 55px;
     height: 12px;
-    background: #ffffff;
+    background: #fff;
     border-radius: 0 0 0 40px;
-    box-shadow: 15px 12px #ffffff, 30px 24px #ffffff;
+    box-shadow: 15px 12px #fff, 30px 24px #fff;
   }
   .top {
-    position: absolute;
-    top: 135;
-    left: 185;
+    top: 135px;
+    left: 185px;
     width: 20px;
     height: 20px;
     background: #161616;
     border-radius: 50%;
     border: 5px solid #a22015;
-    box-shadow: 0 0 0 10px #ffffff;
+    box-shadow: 0 0 0 10px #fff;
   }
 </style>
 ```

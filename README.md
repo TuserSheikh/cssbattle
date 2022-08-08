@@ -33,7 +33,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#121 - ???](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/121-???.md) ⏳
 - [#120 - ???](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/120-???.md) ⏳
 - [#119 - ???](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/119-???.md) ⏳
-- [#118 - Donkey Kong](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/118-donkey-kong.md) ⏳
+- [#118 - Donkey Kong](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/118-donkey-kong.md)
 - [#117 - Arineo](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/117-arineo.md)
 
 ## Battle #19 - Spacing
@@ -50,7 +50,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 ## Battle #18 - Float
 
 - [#108- Clow Card](https://github.com/TuserSheikh/cssbattle/blob/main/battles/18-float/108-clow-card.md)
-- [#107- Sealing Wand](https://github.com/TuserSheikh/cssbattle/blob/main/battles/18-float/107-sealing-wand.md) ⏳
+- [#107- Sealing Wand](https://github.com/TuserSheikh/cssbattle/blob/main/battles/18-float/107-sealing-wand.md)
 - [#106- Ryuk's Apple](https://github.com/TuserSheikh/cssbattle/blob/main/battles/18-float/106-ryuks-apple.md) ⏳
 - [#105- Ryuk](https://github.com/TuserSheikh/cssbattle/blob/main/battles/18-float/105-ryuk.md) ⏳
 - [#104- Amegakure](https://github.com/TuserSheikh/cssbattle/blob/main/battles/18-float/104-amegakure.md)
