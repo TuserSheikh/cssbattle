@@ -11,16 +11,16 @@
 <div class="apple left"></div>
 <div class="apple right"></div>
 <style>
-  * {
-    background: #000000;
+  body {
+    background: #000;
   }
   .mid {
     width: 10px;
     height: 50px;
     background: #d4392d;
     position: absolute;
-    left: 195;
-    top: 70;
+    left: 195px;
+    top: 70px;
   }
   .apple {
     width: 100px;
@@ -28,7 +28,7 @@
     border-radius: 50%;
     background: #d4392d;
     position: absolute;
-    top: 90;
+    top: 90px;
   }
   .left {
     transform: rotate(-30deg);
@@ -38,22 +38,16 @@
     transform: rotate(30deg);
     right: 120;
   }
-  .right::before,
-  .right::after {
+  .apple::before {
     content: "";
     width: 50px;
     height: 60px;
     border-radius: 50%;
-    background: #000000;
+    background: #000;
     position: absolute;
-  }
-  .right::before {
-    top: 65;
-    left: -76;
-  }
-  .right::after {
-    top: 100;
-    left: -56;
+    top: 65px;
+    left: -76px;
+    box-shadow: 20px 35px;
   }
 </style>
 ```
