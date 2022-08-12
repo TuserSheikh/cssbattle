@@ -13,7 +13,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #14 - ZIndex](#battle-14---zindex) ⏳
 - [Battle #13 - Clip](#battle-13---clip) ⏳
 - [Battle #12 - Blend](#battle-12---blend) ⏳
-- [Battle #11 - Overflow](#battle-11---overflow) ⏳
+- [Battle #11 - Overflow](#battle-11---overflow)
 - [Battle #10 - Block](#battle-10---block)
 - [Battle #9 - Margin](#battle-9---margin)
 - [Battle #8 - Transition](#battle-8---transition)
@@ -120,7 +120,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 - [#60 - Evil Triangles](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/60-evil-triangles.md)
 - [#59 - Earth](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/59-earth.md)
-- [#58 - Rose](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/58-rose.md) ⏳
+- [#58 - Rose](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/58-rose.md)
 - [#57 - Pillars](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/57-pillars.md)
 - [#56 - Skull](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/56-skull.md)
 - [#55 - Windmill](https://github.com/TuserSheikh/cssbattle/blob/main/battles/11-overflow/55-windmill.md)
