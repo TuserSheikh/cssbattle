@@ -7,50 +7,37 @@
 ![target](https://cssbattle.dev/targets/60.png)
 
 ```html
-<div class="container">
-  <div class="top">
-    <div class="tri-blue"></div>
-  </div>
-  <div class="mid">
-    <div class="tri-black"></div>
-  </div>
-  <div class="bottom">
-    <div class="tri-blue"></div>
-  </div>
-</div>
+<main>
+  <div class="left"></div>
+  <div class="right"></div>
+</main>
 <style>
   body {
     background: #191919;
     display: grid;
     place-items: center;
   }
-  .container {
+  main {
     width: 200;
     height: 150;
+    background: #4f77ff;
     position: relative;
   }
-  .top,
-  .bottom,
-  .mid {
-    height: 50;
+  div {
     background: #191919;
-    display: flex;
+    width: 50;
+    height: 50;
+    position: absolute;
+    top: 25;
   }
-  .mid {
-    background: #4f77ff;
+  .left {
+    transform: skewY(45deg);
+    box-shadow: 0 100px #191919, 100px -100px #191919, 100px 0 #191919;
   }
-  .tri-blue,
-  .tri-black {
-    border-left: 50px solid transparent;
-    border-right: 50px solid transparent;
-  }
-  .tri-blue {
-    border-top: 50px solid #4f77ff;
-    filter: drop-shadow(100px 0 #4f77ff);
-  }
-  .tri-black {
-    border-top: 50px solid #191919;
-    filter: drop-shadow(100px 0 #191919);
+  .right {
+    transform: skewY(-45deg);
+    left: 50;
+    box-shadow: 0 100px #191919, 100px 100px #191919, 100px 200px #191919;
   }
 </style>
 ```
