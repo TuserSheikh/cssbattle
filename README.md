@@ -107,7 +107,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #12 - Blend
 
-- [#68 - Bell](https://github.com/TuserSheikh/cssbattle/blob/main/battles/12-blend/68-bell.md) ⏳
+- [#68 - Bell](https://github.com/TuserSheikh/cssbattle/blob/main/battles/12-blend/68-bell.md)
 - [#67 - Video Reel](https://github.com/TuserSheikh/cssbattle/blob/main/battles/12-blend/67-video-reel.md) ⏳
 - [#66 - Batmicky](https://github.com/TuserSheikh/cssbattle/blob/main/battles/12-blend/66-batmicky.md) ⏳
 - [#65 - Max Volume](https://github.com/TuserSheikh/cssbattle/blob/main/battles/12-blend/65-max-volume.md) ⏳
