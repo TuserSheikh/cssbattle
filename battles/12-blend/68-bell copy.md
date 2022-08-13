@@ -17,12 +17,12 @@
     height: 110;
     width: 140;
     background: #191919;
+    color: #191919;
     position: absolute;
     left: -95;
     top: -30;
-    box-shadow: 0 150px #191919, 0 300px #191919, 0 300px #191919, 150px -50px #191919, 150px 100px #191919, 150px 250px
-        #191919, 300px 0 #191919, 300px 150px #191919, 300px 300px #191919, 450px -50px #191919, 450px 100px #191919, 450px
-        250px #191919;
+    box-shadow: 0 150px, 0 300px, 0 300px, 150px -50px, 150px 100px, 150px 250px, 300px 0, 300px 150px, 300px 300px, 450px -50px,
+      450px 100px, 450px 250px;
   }
 </style>
 ```
