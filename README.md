@@ -112,7 +112,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#66 - Batmicky](https://github.com/TuserSheikh/cssbattle/blob/main/battles/12-blend/66-batmicky.md)
 - [#65 - Max Volume](https://github.com/TuserSheikh/cssbattle/blob/main/battles/12-blend/65-max-volume.md)
 - [#64 - Door Knob](https://github.com/TuserSheikh/cssbattle/blob/main/battles/12-blend/64-door-knob.md)
-- [#63 - Command Key](https://github.com/TuserSheikh/cssbattle/blob/main/battles/12-blend/63-command-key.md) ⏳
+- [#63 - Command Key](https://github.com/TuserSheikh/cssbattle/blob/main/battles/12-blend/63-command-key.md)
 - [#62 - Sunset](https://github.com/TuserSheikh/cssbattle/blob/main/battles/12-blend/62-sunset.md) ⏳
 - [#61 - ImprovMx](https://github.com/TuserSheikh/cssbattle/blob/main/battles/12-blend/61-improvmx.md) ⏳
 
