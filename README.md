@@ -12,7 +12,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #15 - Filter](#battle-15---filter) ⏳
 - [Battle #14 - ZIndex](#battle-14---zindex) ⏳
 - [Battle #13 - Clip](#battle-13---clip) ⏳
-- [Battle #12 - Blend](#battle-12---blend) ⏳
+- [Battle #12 - Blend](#battle-12---blend)
 - [Battle #11 - Overflow](#battle-11---overflow)
 - [Battle #10 - Block](#battle-10---block)
 - [Battle #9 - Margin](#battle-9---margin)
@@ -114,7 +114,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#64 - Door Knob](https://github.com/TuserSheikh/cssbattle/blob/main/battles/12-blend/64-door-knob.md)
 - [#63 - Command Key](https://github.com/TuserSheikh/cssbattle/blob/main/battles/12-blend/63-command-key.md)
 - [#62 - Sunset](https://github.com/TuserSheikh/cssbattle/blob/main/battles/12-blend/62-sunset.md)
-- [#61 - ImprovMx](https://github.com/TuserSheikh/cssbattle/blob/main/battles/12-blend/61-improvmx.md) ⏳
+- [#61 - ImprovMx](https://github.com/TuserSheikh/cssbattle/blob/main/battles/12-blend/61-improvmx.md)
 
 ## Battle #11 - Overflow
 
