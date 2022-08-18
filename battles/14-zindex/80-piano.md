@@ -7,47 +7,46 @@
 ![target](https://cssbattle.dev/targets/80.png)
 
 ```html
-<div class="piano">
-  <div class="key"></div>
-  <div class="key"></div>
-  <div class="key"></div>
-  <div class="key"></div>
-  <div class="key"></div>
-  <div class="key"></div>
-  <div class="key"></div>
-</div>
+<main>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+  <div></div>
+</main>
 <style>
   body {
     background: #998235;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
   }
-  .piano {
+  main {
     border-radius: 10px;
-    width: 180px;
-    height: 100px;
+    width: 180;
+    height: 100;
     background: #191919;
     display: flex;
     align-items: flex-end;
     justify-content: space-evenly;
     position: relative;
   }
-  .key {
-    width: 20px;
-    background: #ffffff;
-    height: 70px;
-    margin-bottom: 5px;
+  div {
+    width: 20;
+    background: #fff;
+    height: 70;
+    margin-bottom: 5;
     border-radius: 5px;
   }
-  .key:not(:last-child, :nth-child(3))::after {
+  div:not(:last-child, :nth-child(3))::after {
     content: "";
     position: absolute;
-    width: 15px;
+    width: 15;
     background: #191919;
-    height: 60px;
+    height: 60;
     top: 0;
-    margin-left: 15px;
+    margin-left: 15;
   }
 </style>
 ```
