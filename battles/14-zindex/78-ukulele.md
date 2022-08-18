@@ -12,77 +12,73 @@
 <div class="right"></div>
 <style>
   body {
-    background: #f3ac3c;
+    background: #F3AC3C;
     display: flex;
     align-items: center;
   }
-  .left {
+  div {
     position: absolute;
-    left: 45;
-    width: 120px;
-    height: 120px;
     background: #998235;
+  }
+  .left {
+    left: 45;
+    width: 120;
+    height: 120;
     border-radius: 50%;
   }
   .left::before {
-    content: "";
+    content: '';
     position: absolute;
     left: 40;
     top: 40;
-    width: 10px;
-    height: 40px;
-    background: #1a4341;
+    width: 10;
+    height: 40;
+    background: #1A4341;
     border-radius: 10px;
   }
   .left::after {
-    content: "";
+    content: '';
     position: absolute;
     left: 100;
     top: 50;
-    width: 200px;
-    height: 20px;
-    background: #1a4341;
+    width: 200;
+    height: 20;
+    background: #1A4341;
   }
   .mid {
-    position: absolute;
     left: 115;
-    width: 100px;
-    height: 100px;
-    background: #998235;
+    width: 100;
+    height: 100;
     border-radius: 50%;
   }
   .mid::after {
-    content: "";
+    content: '';
     position: absolute;
     left: 25;
     top: 25;
-    width: 40px;
-    height: 40px;
-    background: #1a4341;
+    width: 40;
+    height: 40;
+    background: #1A4341;
     border-radius: 50%;
-    border: 5px solid #f3ac3c;
+    border: 5px solid #F3AC3C;
   }
   .right {
-    position: absolute;
     left: 315;
-    width: 40px;
-    height: 30px;
-    background: #998235;
+    width: 40;
+    height: 30;
     border-radius: 10px;
   }
-  .right::before,
   .right::after {
-    content: "";
+    content: '';
     position: absolute;
     top: 8;
     left: 10;
-    width: 20px;
-    height: 4px;
-    background: #1a4341;
+    width: 20;
+    height: 4;
+    background: #1A4341;
     border-radius: 10px;
+    box-shadow: 0 10px #1A4341;
   }
-  .right::after {
-    top: 18;
-  }
+</style>
 </style>
 ```
