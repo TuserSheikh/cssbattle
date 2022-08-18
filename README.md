@@ -92,7 +92,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#80 - Piano](https://github.com/TuserSheikh/cssbattle/blob/main/battles/14-zindex/80-piano.md) ⏳
 - [#79 - Tambourine](https://github.com/TuserSheikh/cssbattle/blob/main/battles/14-zindex/79-tambourine.md) ⏳
 - [#78 - Ukulele](https://github.com/TuserSheikh/cssbattle/blob/main/battles/14-zindex/78-ukulele.md) ⏳
-- [#77 - Notes](https://github.com/TuserSheikh/cssbattle/blob/main/battles/14-zindex/77-notes.md) ⏳
+- [#77 - Notes](https://github.com/TuserSheikh/cssbattle/blob/main/battles/14-zindex/77-notes.md)
 
 ## Battle #13 - Clip
 
