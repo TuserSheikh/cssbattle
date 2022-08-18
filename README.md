@@ -29,7 +29,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 - [#124 - ???](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/124-???.md) ⏳
 - [#123 - ???](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/123-???.md) ⏳
-- [#122 - ???](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/122-???.md) ⏳
+- [#122 - Tetris](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/122-tetris.md)
 - [#121 - Duck Hunt](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/121-duck-hunt.md)
 - [#120 - Tank](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/120-tank.md)
 - [#119 - Pacman](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/119-pacman.md)
