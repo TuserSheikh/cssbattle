@@ -14,15 +14,14 @@
 <style>
   body {
     background: #243d83;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
   }
   .left,
   .right {
     position: absolute;
-    width: 100px;
-    height: 220px;
+    width: 100;
+    height: 220;
     background: #6592cf;
     transform: rotate(-45deg);
     border-radius: 100px;
@@ -32,15 +31,15 @@
   }
   .mid {
     position: absolute;
-    width: 120px;
-    height: 120px;
+    width: 120;
+    height: 120;
     background: #243d83;
     transform: rotate(45deg);
   }
   .circle {
     position: absolute;
-    width: 60px;
-    height: 60px;
+    width: 60;
+    height: 60;
     background: #eeb850;
     border-radius: 50%;
   }
