@@ -8,7 +8,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #19 - Spacing](#battle-19---spacing)
 - [Battle #18 - Float](#battle-18---float) ⏳
 - [Battle #17 - Christmas](#battle-17---christmas) ⏳
-- [Battle #16 - Aspect](#battle-16---aspect) ⏳
+- [Battle #16 - Aspect](#battle-16---aspect)
 - [Battle #15 - Filter](#battle-15---filter)
 - [Battle #14 - ZIndex](#battle-14---zindex) ⏳
 - [Battle #13 - Clip](#battle-13---clip) ⏳
@@ -67,7 +67,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #16 - Aspect
 
-- [#96 - Mandala](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/96-mandala.md) ⏳(99.9%)
+- [#96 - Mandala](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/96-mandala.md) (99.9%)
 - [#95 - Pokeball](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/95-pokeball.md)
 - [#94 - Ripples](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/94-ripples.md)
 - [#93 - Great Wall](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/93-great-wall.md)

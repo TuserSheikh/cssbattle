@@ -1,6 +1,6 @@
 # Battle #16 - Aspect
 
-## #96 - Mandala
+## #96 - Mandala (99.9%)
 
 [Link to the problem](https://cssbattle.dev/play/96)
 
