@@ -12,22 +12,21 @@
 <style>
   body {
     background: #0e2e2c;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
   }
   .inner {
     position: absolute;
-    width: 40px;
-    height: 40px;
+    width: 40;
+    height: 40;
     background: #f3ac3c;
     border-radius: 50%;
     box-shadow: 0 0 0 8px #0e2e2c, 0 0 0 20px #f3ac3c;
   }
   .outer {
     position: absolute;
-    width: 100px;
-    height: 100px;
+    width: 100;
+    height: 100;
     background: #0e2e2c;
     border-radius: 50%;
     box-shadow: 0 0 0 10px #998235, 0 0 0 22px #0e2e2c, 0 0 0 30px #f3ac3c, 0 0 0 44px #0e2e2c, 0 0 0 50px #f3ac3c;

@@ -69,7 +69,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 - [#96 - Mandala](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/96-mandala.md) ⏳
 - [#95 - Pokeball](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/95-pokeball.md) ⏳
-- [#94 - Ripples](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/94-ripples.md) ⏳
+- [#94 - Ripples](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/94-ripples.md)
 - [#93 - Great Wall](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/93-great-wall.md)
 - [#92 - Squeeze](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/92-squeeze.md)
 - [#91 - Reflection](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/91-reflection.md)
