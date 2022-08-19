@@ -7,43 +7,32 @@
 ![target](https://cssbattle.dev/targets/92.png)
 
 ```html
-<div class="c1"></div>
-<div class="c2"></div>
-<div class="c3"></div>
+<div></div>
 <style>
   body {
-    margin: 0;
-    background: linear-gradient(#6592CF 43%, #243D83 43%, #243D83 57%, #6592CF 57%);
+    background: linear-gradient(#6592cf 43%, #243d83 43% 57%, #6592cf 57%);
+    display: grid;
+    place-items: center;
   }
   div {
-    width: 200px;
-    height: 200px;
-    background: #243D83;
+    width: 200;
+    height: 200;
+    background: #243d83;
     border-radius: 50%;
-    position: absolute;
-    top: 50;
+    color: #243d83;
+    box-shadow: 226px 0, -226px 0;
   }
-  .c1 {
-    left: -126;
-  }
-  .c2 {
-    left: 100;
-  }
-  .c3 {
-    right: -126;
-  }
-  .c1::before, .c1::after, .c2::before, .c2::after {
-    content: '';
-    height: 32px;
-    width: 32px;
+  div::after {
+    content: "";
+    height: 32;
+    width: 32;
     border-radius: 50%;
-    background: #6592CF;
+    background: #6592cf;
     position: absolute;
-    right: -29;
-    top: 58;
-  }
-  .c1::after, .c2::after {
-    top: 110;
+    left: 71;
+    top: 108;
+    color: #6592cf;
+    box-shadow: 0 52px, 226px 0, 226px 52px;
   }
 </style>
 ```
