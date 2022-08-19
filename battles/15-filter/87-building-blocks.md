@@ -13,15 +13,14 @@
 <style>
   body {
     background: #f3ac3c;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
   }
   .left,
   .right {
     position: absolute;
-    width: 100px;
-    height: 100px;
+    width: 100;
+    height: 100;
     background: #1a4341;
   }
   .left {
@@ -38,39 +37,26 @@
   .right::before {
     content: "";
     position: absolute;
-    width: 50px;
-    height: 50px;
+    width: 50;
+    height: 50;
     background: #1a4341;
+    color: #1a4341;
+    z-index: -1;
   }
   .left::before {
     right: -50;
     border-radius: 0 10px 10px 0;
+    box-shadow: -20px 20px;
   }
   .right::before {
     left: -50;
     bottom: 0;
     border-radius: 10px 0 0 10px;
-  }
-  .left::after,
-  .right::after {
-    content: "";
-    position: absolute;
-    width: 50px;
-    height: 50px;
-    background: #1a4341;
-    top: 20;
-    z-index: -1;
-  }
-  .left::after {
-    right: -20;
-  }
-  .right::after {
-    left: -20;
-    top: 20;
+    box-shadow: 20px -20px;
   }
   .mid {
-    width: 70px;
-    height: 70px;
+    width: 70;
+    height: 70;
     background: #f3ac3c;
     border-radius: 10px;
   }
