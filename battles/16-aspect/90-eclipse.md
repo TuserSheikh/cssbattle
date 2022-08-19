@@ -11,13 +11,12 @@
 <style>
   body {
     background: #f3ac3c;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
   }
   div {
-    width: 200px;
-    height: 200px;
+    width: 200;
+    height: 200;
     background: #1a4341;
     border-radius: 50%;
     border: 25px solid #f3ac3c;
@@ -25,8 +24,8 @@
   div::before,
   div::after {
     content: "";
-    width: 400px;
-    height: 400px;
+    width: 400;
+    height: 400;
     background: #998235;
     border-radius: 50%;
     position: absolute;
