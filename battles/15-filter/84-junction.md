@@ -14,14 +14,13 @@
 <style>
   body {
     background: #191919;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: grid;
+    place-items: center;
   }
   div {
     position: absolute;
-    width: 40px;
-    height: 200px;
+    width: 40;
+    height: 200;
     border-radius: 20px;
     background: #fe5f55;
   }
