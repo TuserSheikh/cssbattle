@@ -85,7 +85,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#84 - Junction](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/84-junction.md) ⏳
 - [#83 - Supernova](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/83-supernova.md) ⏳
 - [#82 - Diamond Cut](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/82-diamond-cut.md) ⏳
-- [#81 - Odoo](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/81-odoo.md) ⏳
+- [#81 - Odoo](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/81-odoo.md)
 
 ## Battle #14 - ZIndex
 
