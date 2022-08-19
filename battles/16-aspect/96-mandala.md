@@ -7,51 +7,29 @@
 ![target](https://cssbattle.dev/targets/96.png)
 
 ```html
-<div class="circle">
-  <div class="c1"></div>
-  <div class="c2"></div>
-  <div class="c3"></div>
-  <div class="c4"></div>
-</div>
+<div class="left-right"></div>
+<div class="top-bottom"></div>
 <style>
   body {
-    background: #243d83;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    background: radial-gradient(circle, #6592cf 40%, #243d83 40%);
   }
-  .circle {
-    width: 200px;
-    height: 200px;
-    background: #6592cf;
-    border-radius: 50%;
-    position: relative;
-  }
-  .c1,
-  .c2,
-  .c3,
-  .c4 {
-    width: 130px;
-    height: 130px;
+  div {
+    width: 130;
+    height: 130;
+    border: 20px solid #243d83;
     border-radius: 50%;
     position: absolute;
-    box-shadow: 0 0 0 20px #243d83;
+    color: #243d83;
   }
-  .c1 {
-    left: -40;
-    top: 35;
+  .left-right {
+    top: 65;
+    left: 40;
+    filter: drop-shadow(150px 0);
   }
-  .c2 {
-    right: -40;
-    top: 35;
-  }
-  .c3 {
-    top: -40;
-    left: 35;
-  }
-  .c4 {
-    bottom: -40;
-    left: 35;
+  .top-bottom {
+    top: -10;
+    left: 115;
+    filter: drop-shadow(0 150px);
   }
 </style>
 ```
