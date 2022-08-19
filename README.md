@@ -72,7 +72,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#94 - Ripples](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/94-ripples.md) ⏳
 - [#93 - Great Wall](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/93-great-wall.md) ⏳
 - [#92 - Squeeze](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/92-squeeze.md) ⏳
-- [#91 - Reflection](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/91-reflection.md) ⏳
+- [#91 - Reflection](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/91-reflection.md)
 - [#90 - Eclipse](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/90-eclipse.md)
 - [#89 - Summit](https://github.com/TuserSheikh/cssbattle/blob/main/battles/16-aspect/89-summit.md)
 

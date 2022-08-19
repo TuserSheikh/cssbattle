@@ -7,36 +7,28 @@
 ![target](https://cssbattle.dev/targets/91.png)
 
 ```html
-<div></div>
+<div class="circle"></div>
+<div class="reflect"></div>
 <style>
   body {
     background: linear-gradient(#d25b70 50%, #6cb3a9 50%);
-    display: flex;
-    justify-content: center;
-    align-items: center;
   }
   div {
-    width: 200px;
-    height: 200px;
-    background: linear-gradient(
-      #f6df96 100px,
-      #6cb3a9 100px,
-      #6cb3a9 115px,
-      #f6df96 115px,
-      #f6df96 125px,
-      #6cb3a9 125px,
-      #6cb3a9 140px,
-      #f6df96 140px,
-      #f6df96 150px,
-      #6cb3a9 150px,
-      #6cb3a9 165px,
-      #f6df96 165px,
-      #f6df96 175px,
-      #6cb3a9 175px,
-      #6cb3a9 190px,
-      #f6df96 190px
-    );
+    position: absolute;
+  }
+  .circle {
+    width: 200;
+    height: 200;
+    background: #f6df96;
     border-radius: 50%;
+    top: 50;
+    left: 100;
+  }
+  .reflect {
+    top: 142;
+    height: 50%;
+    background: repeating-linear-gradient(#6cb3a9 0 15px, transparent 15px 25px);
+    position: relative;
   }
 </style>
 ```
