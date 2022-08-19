@@ -10,33 +10,30 @@
 <div></div>
 <style>
   body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
     background: #6cb3a9;
   }
   div {
-    width: 200px;
-    height: 200px;
-    background: linear-gradient(#d25b70 45%, #6cb3a9 45%, #6cb3a9 55%, #ffffff 55%);
+    width: 200;
+    height: 200;
+    background: linear-gradient(#d25b70 45%, #6cb3a9 45% 55%, #fff 55%);
     border-radius: 50%;
     position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
   }
   div::before {
     content: "";
-    position: absolute;
-    width: 180px;
-    height: 20px;
+    width: 180;
+    height: 20;
     background: #781728;
   }
   div::after {
     content: "";
     position: absolute;
-    width: 50px;
-    height: 50px;
+    width: 50;
+    height: 50;
     background: #f6df96;
     border-radius: 50%;
     border: 10px solid #781728;
