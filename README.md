@@ -9,7 +9,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #18 - Float](#battle-18---float) ⏳
 - [Battle #17 - Christmas](#battle-17---christmas) ⏳
 - [Battle #16 - Aspect](#battle-16---aspect) ⏳
-- [Battle #15 - Filter](#battle-15---filter) ⏳
+- [Battle #15 - Filter](#battle-15---filter)
 - [Battle #14 - ZIndex](#battle-14---zindex) ⏳
 - [Battle #13 - Clip](#battle-13---clip) ⏳
 - [Battle #12 - Blend](#battle-12---blend)
@@ -78,13 +78,13 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #15 - Filter
 
-- [#88 - Tight Corner](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/88-tight-corner.md) ⏳
-- [#87 - Building Block](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/87-building-blocks.md) ⏳
-- [#86 - Stairway](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/86-stairway.md) ⏳
-- [#85 - Pythagoras](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/85-pythagoras.md) ⏳
-- [#84 - Junction](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/84-junction.md) ⏳
-- [#83 - Supernova](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/83-supernova.md) ⏳
-- [#82 - Diamond Cut](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/82-diamond-cut.md) ⏳
+- [#88 - Tight Corner](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/88-tight-corner.md)
+- [#87 - Building Block](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/87-building-blocks.md)
+- [#86 - Stairway](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/86-stairway.md)
+- [#85 - Pythagoras](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/85-pythagoras.md)
+- [#84 - Junction](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/84-junction.md)
+- [#83 - Supernova](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/83-supernova.md)
+- [#82 - Diamond Cut](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/82-diamond-cut.md)
 - [#81 - Odoo](https://github.com/TuserSheikh/cssbattle/blob/main/battles/15-filter/81-odoo.md)
 
 ## Battle #14 - ZIndex

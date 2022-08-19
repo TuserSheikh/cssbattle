@@ -12,7 +12,7 @@
 <style>
   body {
     margin: 0;
-    background: linear-gradient(#f7f3da 40%, #d25b70 40%, #d25b70 60%, #f7f3da 60%);
+    background: linear-gradient(#f7f3da 40%, #d25b70 40% 60%, #f7f3da 60%);
   }
   .top,
   .bottom {
@@ -33,7 +33,7 @@
   .bottom::after {
     content: "";
     width: 100%;
-    height: 40px;
+    height: 40;
     background: #d25b70;
     position: absolute;
   }
