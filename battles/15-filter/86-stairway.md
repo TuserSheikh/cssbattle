@@ -11,13 +11,12 @@
 <style>
   body {
     background: #191919;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
   }
   div {
-    width: 100px;
-    height: 150px;
+    width: 100;
+    height: 150;
     background: #4f77ff;
     border-radius: 100px 100px 0 0;
     position: relative;
@@ -27,10 +26,11 @@
     position: absolute;
     right: 0;
     bottom: 0;
-    width: 80px;
-    height: 20px;
+    width: 80;
+    height: 20;
     background: #191919;
-    box-shadow: 20px -24px #191919, 40px -48px #191919, 60px -72px #191919;
+    color: #191919;
+    box-shadow: 20px -24px, 40px -48px, 60px -72px;
   }
 </style>
 ```
