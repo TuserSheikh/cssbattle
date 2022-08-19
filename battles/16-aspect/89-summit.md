@@ -21,8 +21,8 @@
     clip-path: polygon(14.8% 100%, 50% 53%, 85.2% 100%);
   }
   .circle {
-    width: 200px;
-    height: 200px;
+    width: 200;
+    height: 200;
     border-radius: 50%;
     background: #f9e492;
     position: absolute;
