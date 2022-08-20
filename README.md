@@ -61,7 +61,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 ## Battle #17 - Christmas
 
 - [#100 - CSSBattle](https://github.com/TuserSheikh/cssbattle/blob/main/battles/17-christmas/100-cssbattle.md) ⏳
-- [#99 - Gift Box](https://github.com/TuserSheikh/cssbattle/blob/main/battles/17-christmas/99-gift-box.md) ⏳
+- [#99 - Gift Box](https://github.com/TuserSheikh/cssbattle/blob/main/battles/17-christmas/99-gift-box.md)
 - [#98 - Candle](https://github.com/TuserSheikh/cssbattle/blob/main/battles/17-christmas/98-candle.md)
 - [#97 - Snowman](https://github.com/TuserSheikh/cssbattle/blob/main/battles/17-christmas/97-snowman.md)
 
