@@ -28,7 +28,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 ## Battle #20 - Hover
 
 - [#124 - ???](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/124-???.md) ⏳
-- [#123 - ???](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/123-???.md) ⏳
+- [#123 - Snake](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/123-snake.md)
 - [#122 - Tetris](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/122-tetris.md)
 - [#121 - Duck Hunt](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/121-duck-hunt.md)
 - [#120 - Tank](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/120-tank.md)
