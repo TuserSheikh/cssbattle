@@ -4,7 +4,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Table of contents
 
-- [Battle #20 - Hover](#battle-20---hover) ⏳
+- [Battle #20 - Hover](#battle-20---hover)
 - [Battle #19 - Spacing](#battle-19---spacing)
 - [Battle #18 - Float](#battle-18---float) ⏳
 - [Battle #17 - Christmas](#battle-17---christmas) ⏳
@@ -27,7 +27,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #20 - Hover
 
-- [#124 - ???](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/124-???.md) ⏳
+- [#124 - Space Invaders](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/124-space-invaders.md)
 - [#123 - Snake](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/123-snake.md)
 - [#122 - Tetris](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/122-tetris.md)
 - [#121 - Duck Hunt](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-hover/121-duck-hunt.md)
