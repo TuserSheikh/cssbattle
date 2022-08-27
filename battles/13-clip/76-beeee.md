@@ -15,22 +15,21 @@
 <style>
   body {
     background: #998235;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    place-items: center;
   }
   main {
-    width: 150px;
-    height: 150px;
+    width: 150;
+    height: 150;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
   .left {
-    background: #ffffff;
+    background: #fff;
     border-radius: 50px 50px 0 50px;
   }
   .right {
-    background: #ffffff;
+    background: #fff;
     border-radius: 50px 50px 50px 0;
   }
   .bee {
@@ -39,14 +38,10 @@
     background: linear-gradient(
       to right,
       #191919 25px,
-      #eff33c 25px,
-      #eff33c 35px,
-      #191919 35px,
-      #191919 60px,
-      #eff33c 60px,
-      #eff33c 70px,
-      #191919 70px,
-      #191919 95px,
+      #eff33c 25px 35px,
+      #191919 35px 60px,
+      #eff33c 60px 70px,
+      #191919 70px 95px,
       #eff33c 95px
     );
   }
@@ -55,8 +50,8 @@
     position: absolute;
     top: 170;
     right: 145;
-    height: 15px;
-    width: 15px;
+    height: 15;
+    width: 15;
     border-radius: 50%;
     background: #191919;
   }

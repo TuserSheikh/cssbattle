@@ -96,7 +96,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #13 - Clip
 
-- [#76 - Beeee](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/76-beeee.md) ⏳
+- [#76 - Beeee](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/76-beeee.md)
 - [#75 - Hippo](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/75-hippo.md) ⏳
 - [#74 - Danger Noodle](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/74-danger-noodle.md) ⏳
 - [#73 - Happy Tiger](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/73-happy-tiger.md) ⏳
