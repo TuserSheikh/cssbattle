@@ -16,11 +16,11 @@
     background: #191919;
   }
   .ear {
-    background: #000000;
+    background: #000;
     position: absolute;
     top: 70;
-    width: 10px;
-    height: 20px;
+    width: 10;
+    height: 20;
     border-radius: 50%;
     border: 5px solid #fe5f55;
   }
@@ -36,8 +36,8 @@
     position: absolute;
     top: 75;
     left: 135;
-    width: 130px;
-    height: 100px;
+    width: 130;
+    height: 100;
     border-radius: 60px 60px 0 0;
     background: #fe5f55;
   }
@@ -46,10 +46,10 @@
     content: "";
     position: absolute;
     top: 50;
-    width: 10px;
-    height: 10px;
+    width: 10;
+    height: 10;
     border-radius: 50%;
-    background: #000000;
+    background: #000;
   }
   .mid::before {
     left: 25;
@@ -61,8 +61,8 @@
     position: absolute;
     top: 145;
     left: 125;
-    width: 150px;
-    height: 100px;
+    width: 150;
+    height: 100;
     border-radius: 55px 55px 44px 44px;
     background: #a64942;
   }
@@ -71,10 +71,10 @@
     content: "";
     position: absolute;
     top: 20;
-    width: 20px;
-    height: 30px;
+    width: 20;
+    height: 30;
     border-radius: 50%;
-    background: #000000;
+    background: #000;
   }
   .bottom::before {
     left: 25;
