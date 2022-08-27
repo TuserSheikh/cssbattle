@@ -101,7 +101,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#74 - Danger Noodle](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/74-danger-noodle.md) ⏳
 - [#73 - Happy Tiger](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/73-happy-tiger.md)
 - [#72 - Sheep](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/72-sheep.md)
-- [#71 - Elepant](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/71-elepant.md) ⏳
+- [#71 - Elepant](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/71-elepant.md)
 - [#70 - Froggy](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/70-froggy.md)
 - [#69 - PushOwl](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/69-pushowl.md) (99.9%)
 
