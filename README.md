@@ -11,7 +11,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #16 - Aspect](#battle-16---aspect)
 - [Battle #15 - Filter](#battle-15---filter)
 - [Battle #14 - ZIndex](#battle-14---zindex) ⏳
-- [Battle #13 - Clip](#battle-13---clip) ⏳
+- [Battle #13 - Clip](#battle-13---clip)
 - [Battle #12 - Blend](#battle-12---blend)
 - [Battle #11 - Overflow](#battle-11---overflow)
 - [Battle #10 - Block](#battle-10---block)
@@ -98,7 +98,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 - [#76 - Beeee](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/76-beeee.md)
 - [#75 - Hippo](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/75-hippo.md)
-- [#74 - Danger Noodle](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/74-danger-noodle.md) ⏳
+- [#74 - Danger Noodle](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/74-danger-noodle.md)
 - [#73 - Happy Tiger](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/73-happy-tiger.md)
 - [#72 - Sheep](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/72-sheep.md)
 - [#71 - Elepant](https://github.com/TuserSheikh/cssbattle/blob/main/battles/13-clip/71-elepant.md)
