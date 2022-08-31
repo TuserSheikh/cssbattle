@@ -1,6 +1,6 @@
 # Battle #14 - ZIndex
 
-## #79. Tambourine
+## #79. Tambourine (99.9%)
 
 [Link to the problem](https://cssbattle.dev/play/79)
 
