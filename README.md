@@ -34,7 +34,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [#129 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/129-.md)
 - [#128 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/128-.md)
 - [#127 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/127-.md)
-- [#126 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/126-.md)
+- [#126 - Letter A](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/126-letter-a.md)
 - [#125 - Root Learn](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/125-root-learn.md)
 
 ## Battle #20 - Hover
