@@ -4,6 +4,7 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Table of contents
 
+- [Battle #21 - Rotate](#battle-21---rotate)
 - [Battle #20 - Hover](#battle-20---hover)
 - [Battle #19 - Spacing](#battle-19---spacing)
 - [Battle #18 - Float](#battle-18---float) ⏳
@@ -24,6 +25,17 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 - [Battle #3 - Cursor](#battle-3---cursor)
 - [Battle #2 - Visibility](#battle-2---visibility)
 - [Battle #1 - Pilot Battle](#battle-1---pilot-battle)
+
+## Battle #21 - Rotate
+
+- [#132 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-rotate/132-.md)
+- [#131 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-rotate/131-.md)
+- [#130 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-rotate/130-.md)
+- [#129 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-rotate/129-.md)
+- [#128 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-rotate/128-.md)
+- [#127 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-rotate/127-.md)
+- [#126 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-rotate/126-.md)
+- [#125 - Root Learn](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-rotate/125-root-learn.md)
 
 ## Battle #20 - Hover
 
