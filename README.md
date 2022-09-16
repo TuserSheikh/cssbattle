@@ -28,14 +28,14 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 
 ## Battle #21 - Rotate
 
-- [#132 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-rotate/132-.md)
-- [#131 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-rotate/131-.md)
-- [#130 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-rotate/130-.md)
-- [#129 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-rotate/129-.md)
-- [#128 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-rotate/128-.md)
-- [#127 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-rotate/127-.md)
-- [#126 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-rotate/126-.md)
-- [#125 - Root Learn](https://github.com/TuserSheikh/cssbattle/blob/main/battles/20-rotate/125-root-learn.md)
+- [#132 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/132-.md)
+- [#131 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/131-.md)
+- [#130 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/130-.md)
+- [#129 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/129-.md)
+- [#128 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/128-.md)
+- [#127 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/127-.md)
+- [#126 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/126-.md)
+- [#125 - Root Learn](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/125-root-learn.md)
 
 ## Battle #20 - Hover
 
