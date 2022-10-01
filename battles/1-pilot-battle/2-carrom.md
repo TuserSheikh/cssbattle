@@ -9,15 +9,16 @@
 ```html
 <div></div>
 <style>
-  body {
+  * {
     background: #62374e;
   }
   div {
     margin: 50px 42px;
     background: #fdc57b;
-    height: 50px;
-    width: 50px;
-    box-shadow: 250px 0 #fdc57b, 0 150px #fdc57b, 250px 150px #fdc57b;
+    color: #fdc57b;
+    height: 50;
+    width: 50;
+    box-shadow: 250px 0, 0 150px, 250px 150px;
   }
 </style>
 ```
