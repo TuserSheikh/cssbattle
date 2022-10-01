@@ -17,15 +17,7 @@
   div {
     width: 300;
     height: 150;
-    background: radial-gradient(
-      circle,
-      #eeb850 14.9%,
-      #243d83 14.9%,
-      #243d83 44.7%,
-      #6592cf 44.7%,
-      #6592cf 74.5%,
-      #243d83 74.5%
-    );
+    background: radial-gradient(circle, #eeb850 14.9%, #243d83 14.9% 44.7%, #6592cf 44.7% 74.5%, #243d83 74.5%);
   }
 </style>
 ```
