@@ -29,8 +29,8 @@ I try to solve [cssbattle](https://cssbattle.dev/) problems easy way and here ar
 ## Battle #21 - Rotate
 
 - [#132 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/132-.md)
-- [#131 - ](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/131-.md)
-- [#130 - letter O](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/130-letter-o.md)
+- [#131 - Letter W](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/131-letter-w.md)
+- [#130 - Letter O](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/130-letter-o.md)
 - [#129 - Letter B](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/129-letter-b.md)
 - [#128 - Letter N](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/128-letter-n.md)
 - [#127 - Letter I](https://github.com/TuserSheikh/cssbattle/blob/main/battles/21-rotate/127-letter-i.md)
